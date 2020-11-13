@@ -1,41 +1,40 @@
 # TASKS:
 ---------------------------------------
 
-# Visualize:
+## Visualize:
 
 ---------------------------------------
 
-# Mapping:
+## Mapping:
 
 1. De-duplicate the Duplicate Records:
 + https://towardsdatascience.com/de-duplicate-the-duplicate-records-from-scratch-f6e5ad9e79da
 ---------------------------------------
 
-# Ranking:
+## Ranking:
 
-2. Topic Modeling:
-+ https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514
+-------------------------------------
 
+## Machine Learning:
 
----------------------------------------
-
-# Machine Learning:
-
-3. Machine Learning Model for Predicting Click-Through in Hotel Online Ranking:
+2. Machine Learning Model for Predicting Click-Through in Hotel Online Ranking:
 + https://towardsdatascience.com/machine-learning-model-for-predicting-click-through-in-hotel-online-ranking-d55fc18c8516
 
-4. The Automated Travel Agent: Hotel Recommendations Using Machine Learning:
+3. The Automated Travel Agent: Hotel Recommendations Using Machine Learning:
 + http://cs229.stanford.edu/proj2016spr/report/017.pdf
 
-5. Predicting Hotel Bookings with User Search Parameters:
+4. Predicting Hotel Bookings with User Search Parameters:
 + https://towardsdatascience.com/predicting-hotel-bookings-with-user-search-parameters-8c570ab24805
 
-6. A Machine Learning Approach — Building a Hotel Recommendation Engine:
+5. A Machine Learning Approach — Building a Hotel Recommendation Engine:
 + https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50
 
 ---------------------------------------
 
-# Recommendation System:
+## Recommendation System:
+
+6. Topic Modeling:
++ https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514
 
 7. Natural Language Processing for Fuzzy String Matching with Python:
 + https://towardsdatascience.com/natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49
@@ -51,7 +50,7 @@
 
 ---------------------------------------
 
-# Future:
+## Future:
 
 11. Automatically Generate Hotel Descriptions with LSTM:
 + https://towardsdatascience.com/automatically-generate-hotel-descriptions-with-lstm-afa37002d4fc
