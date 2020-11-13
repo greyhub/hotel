@@ -6,50 +6,50 @@ A short description of the project.
 Project Organization
 ------------
 
-    ├── LICENSE 																							Luong
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`						Luong
-    ├── README.md          <- The top-level README for developers using this project. 						Luong
-    ├── data 																								Viet
+    ├── LICENSE                                                                                              Luong
+    ├── Makefile           <- Makefile with commands like `make data` or `make train`                        Luong
+    ├── README.md          <- The top-level README for developers using this project.                        Luong
+    ├── data                                                                                                 Viet
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details 						Luong
+    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details                       Luong
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries 			Viet
+    ├── models             <- Trained and serialized models, model predictions, or model summaries           Viet
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), 				Luong
+    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),               Luong
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials. 				Minh Anh
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.               Minh Anh
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.									Minh Anh
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.                                   Minh Anh
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g. 			Luong
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.           Luong
     │                         generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported 		Luong
+    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported        Luong
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
-    │   ├── data           <- Scripts to download or generate data 											Viet
+    │   ├── data           <- Scripts to download or generate data                                           Viet
     │   │   └── make_dataset.py
     │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling 							Viet
+    │   ├── features       <- Scripts to turn raw data into features for modeling                            Viet
     │   │   └── build_features.py
     │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make 					Viet
+    │   ├── models         <- Scripts to train models and then use trained models to make                    Viet
     │   │   │                 predictions
     │   │   ├── predict_model.py
     │   │   └── train_model.py
     │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations				Minh Anh 
+    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations              Minh Anh 
     │       └── visualize.py
     │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io 				Luong
+    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io                 Luong
 
 
 --------
